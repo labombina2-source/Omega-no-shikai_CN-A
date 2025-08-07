@@ -1,0 +1,182 @@
+*cg_p01|ＣＧモード
+@cm
+@image layer=base storage=img_bg_b page=fore
+@mes_all
+@nowait
+
+;-----------------------------------------
+@font size=16
+@locate x=290 y=550
+[link storage="CG_aki.ks" target=*cg_p01]［前へ］[endlink][link storage="first_aki.ks" target=*menu]［タイトルへ戻る］[endlink]
+;-----------------------------------------
+
+@locate x=12 y=0
+@button graphic=vis_s066_0 target=*cg01
+
+@locate x=206 y=0
+@button graphic=vis_s067 target=*cg02
+
+@locate x=400 y=0
+@button graphic=vis_s068 target=*cg03
+
+@locate x=594 y=0
+@button graphic=vis_s069 target=*cg04
+
+;-----------------------------------------
+
+@locate x=12 y=140
+@button graphic=vis_s070 target=*cg05
+
+@locate x=206 y=140
+@button graphic=vis_s076 target=*cg06
+
+;@locate x=400 y=140
+;@button graphic=vis_s31 target=*cg07
+
+;@locate x=594 y=140
+;@button graphic=vis_s32 target=*cg08
+
+;-----------------------------------------
+
+;@locate x=12 y=280
+;@button graphic=vis_s33 target=*cg09
+
+;@locate x=206 y=280
+;@button graphic=vis_s34 target=*cg10
+
+;@locate x=400 y=280
+;@button graphic=vis_s35 target=*cg11
+
+;@locate x=594 y=280
+;@button graphic=vis_s36 target=*cg12
+
+;-----------------------------------------
+;@locate x=12 y=420
+;@button graphic=vis_s13 target=*cg13
+
+;@locate x=206 y=420
+;@button graphic=vis_s14 target=*cg14
+
+;@locate x=400 y=420
+;@button graphic=vis_s21 target=*cg15
+
+;@locate x=594 y=420
+;@button graphic=vis_s22 target=*cg16
+
+
+;---------------------------------------------------
+@endnowait
+@s
+;---------------------------------------------------
+*cg01
+@mes_no
+@img_bg_trans img=vis066_0
+@img_bg_trans img=vis066_1
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg02
+@mes_no
+@img_bg_trans img=vis067
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg03
+@mes_no
+@img_bg_trans img=vis068b
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg04
+@mes_no
+@img_bg_trans img=vis069
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg05
+@mes_no
+@img_bg_trans img=vis070
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg06
+@mes_no
+@img_bg_trans img=vis076
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg07
+@mes_no
+@img_bg_trans img=vis031
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg08
+@mes_no
+@img_bg_trans img=vis032b
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg09
+@mes_no
+@img_bg_trans img=vis033b
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg10
+@mes_no
+@img_bg_trans img=vis034
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg11
+@mes_no
+@img_bg_trans img=vis035
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg12
+@mes_no
+@img_bg_trans img=vis036
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg13
+@mes_no
+@img_bg_trans img=vis013
+@waitclick
+@jump target=*cg_p01
+@s
+*cg14
+@mes_no
+@img_bg_trans img=vis014
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg15
+@mes_no
+@img_bg_trans img=vis021b
+@waitclick
+@jump target=*cg_p01
+@s
+
+*cg16
+@mes_no
+@img_bg_trans img=vis022
+@waitclick
+@jump target=*cg_p01
+@s
+

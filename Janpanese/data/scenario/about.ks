@@ -1,0 +1,1 @@
+[eval exp="System.inform('Omegaの視界  〜ミヨ オワレル シマイ トワ（●ｎｄ）〜＆アキかけたシキのアイ：残＆アキかけたシキのアイ＆シキのはじまり／未解封のハコニハ Ver5.00 Copyright (C) nekobanana All Rights Reserved. ', 'バージョン情報')"]
