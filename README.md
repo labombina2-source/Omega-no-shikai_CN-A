@@ -110,9 +110,9 @@ python 1.py
 欢迎提交 Issue 和 Pull Request 来改进项目：
 
 1. Fork 本项目
-2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
+2. 创建新分支 (`git checkout -b test`)
+3. 提交更改 (`git commit -m 'Add some changes'`)
+4. 推送到分支 (`git push origin test`)
 5. 开启 Pull Request
 
 
