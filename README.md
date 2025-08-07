@@ -116,7 +116,7 @@ python 1.py
 | `scenario/` | 存放游戏剧本和场景文件 |
 | `system/` | 系统相关文件和配置 |
 | `1.py` | 编码转换工具（仅日文版本） |
-| `*.trans` | 翻译对照文件，需要使用 Translator++ 打开 |
+| `*.trans` | 翻译对照文件，需要使用 [Translator++](https://dreamsavior.net/translator-plusplus/) 打开 |
 
 
 
