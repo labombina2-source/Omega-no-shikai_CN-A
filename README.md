@@ -1,11 +1,11 @@
-# Omega の視界 ～ミヨ オワレル シマイ トワ（●ｎｄ）～ 中文本地化仓库
+# Omega の視界 中文本地化仓库
 
 <div align="center">
 
 ![Visual Novel](https://img.shields.io/badge/Type-Visual%20Novel-ff69b4)
 ![Engine](https://img.shields.io/badge/Engine-Kirikiri%2FTJS-blue)
 ![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20Chinese-green)
-![Status](https://img.shields.io/badge/Status-Localized-success)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 *一个基于 Kirikiri/TJS 引擎的视觉小说游戏的中文本地化仓库*
 
