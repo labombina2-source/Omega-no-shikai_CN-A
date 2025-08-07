@@ -9,6 +9,7 @@
 
 *一个基于 Kirikiri/TJS 引擎的视觉小说游戏的中文本地化仓库*
 
+![游戏主视觉图](https://img.dlsite.jp/modpub/images2/work/doujin/RJ102000/RJ101805_img_main.webp)
 
 </div>
 
