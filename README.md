@@ -1,4 +1,4 @@
-# Omega の視界 中文本地化仓库
+# Omegaの視界 中文本地化仓库
 
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 #### 📚 章节构成
 
-- 第一幕『Omegaの視界 シキのはじまり/未解封のハコニハ』（已翻译）
+- 第一幕『Omegaの視界 シキのはじまり/未解封のハコニハ』（已完成翻译）
 ![第一幕视觉图](https://tvax4.sinaimg.cn/large/007u3YL4gy1i469xuiacwj30b40azdgs.jpg)
 - 第二幕『Omegaの視界 アキかけたシキのアイ』
 ![第二幕视觉图](https://tvax3.sinaimg.cn/large/007u3YL4gy1i469xtquqkj30b40ay3zy.jpg)
