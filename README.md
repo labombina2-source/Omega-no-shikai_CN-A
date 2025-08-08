@@ -9,6 +9,7 @@
 
 *一个基于 Kirikiri/TJS 引擎的视觉小说游戏的中文本地化仓库*
 
+![游戏主视觉图](https://tvax2.sinaimg.cn/large/007u3YL4gy1i469xtk9wgj30lc0f3778.jpg)
 ![游戏主视觉图](https://img.dlsite.jp/modpub/images2/work/doujin/RJ102000/RJ101805_img_main.webp)
 
 </div>
@@ -28,10 +29,14 @@
 #### 📚 章节构成
 
 - 第一幕『Omegaの視界 シキのはじまり/未解封のハコニハ』（已翻译）
-
+![第一幕视觉图](https://tvax4.sinaimg.cn/large/007u3YL4gy1i469xuiacwj30b40azdgs.jpg)
 - 第二幕『Omegaの視界 アキかけたシキのアイ』
+![第二幕视觉图](https://tvax3.sinaimg.cn/large/007u3YL4gy1i469xtquqkj30b40ay3zy.jpg)
 - 第三幕『Omegaの視界 アキかけたシキのアイ:残(ザン)』
+![第三幕视觉图](https://tvax1.sinaimg.cn/large/007u3YL4gy1i469vnnw1dj30b40asdh1.jpg)
 - 最終幕『Omegaの視界 〜ミヨ　オワレル　シマイ　トワ(●nd)〜』
+![最終幕视觉图](https://tvax4.sinaimg.cn/large/007u3YL4gy1i469xunyxgj30be0b60tf.jpg)
+
 
 #### 🌟 故事梗概
 
