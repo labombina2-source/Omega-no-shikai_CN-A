@@ -3,11 +3,11 @@
 <div align="center">
 
 ![Visual Novel](https://img.shields.io/badge/Type-Visual%20Novel-ff69b4)
-![Engine](https://img.shields.io/badge/Engine-Kirikiri%2FTJS-blue)
+![Engine](https://img.shields.io/badge/Engine-Kirikiri%2FTVP-blue)
 ![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20Chinese-green)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
-*一个基于 Kirikiri/TJS 引擎的视觉小说游戏的中文本地化仓库*
+*一个基于 Kirikiri/TVP 引擎的视觉小说游戏的中文本地化仓库*
 
 ![游戏主视觉图](https://tvax2.sinaimg.cn/large/007u3YL4gy1i469xtk9wgj30lc0f3778.jpg)
 ![游戏主视觉图](https://img.dlsite.jp/modpub/images2/work/doujin/RJ102000/RJ101805_img_main.webp)
@@ -170,7 +170,7 @@ python 1.py
 ## 🙏 致谢
 
 - **原作开发团队** ねこバナナ - 创作了这部优秀的视觉小说作品
-- **Kirikiri/TJS 引擎开发者** - 提供了强大的视觉小说开发引擎
+- **Kirikiri/TVP 引擎开发者** - 提供了强大的视觉小说开发引擎
 - **Translator++ 开发者** - 提供了便捷的翻译工具
 
 ---
